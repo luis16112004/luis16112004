@@ -40,7 +40,7 @@ Soy ingeniero de software y construyo **apps móviles y web completas**: diseño
       <sub>Desarrollado para un cliente; el código es privado y las capturas usan datos de prueba.</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/luis16112004/PuntoVentaLDC"><img src="assets/proyectos/punto-de-venta.jpg" width="100%" alt="Página de PuntoVentaLDC"></a>
+      <a href="https://github.com/luis16112004/PuntoVentaLDC"><img src="assets/proyectos/punto-de-venta.jpg" width="100%" alt="Registro de ventas y catálogo de PuntoVentaLDC con productos de ejemplo"></a>
       <h3>PuntoVentaLDC</h3>
       <p>Punto de venta para tiendas de abarrotes en México. Personalicé OpenSourcePOS con traducción completa al español de México, temas claro y oscuro, un registro de ventas más ágil y despliegue con Docker.</p>
       <p><img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white" alt="CodeIgniter"> <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" alt="MariaDB"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"></p>
