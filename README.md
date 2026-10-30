@@ -67,4 +67,8 @@ Soy ingeniero de software y construyo **apps móviles y web completas**: diseño
 
 ### Contacto
 
-¿Tienes un proyecto o una vacante? Encuentra mis datos de contacto en la barra lateral de este perfil, o revisa mis repositorios fijados para ver más de mi trabajo.
+¿Tienes un proyecto o una vacante? Hablemos por LinkedIn:
+
+<a href="https://www.linkedin.com/in/lu%C3%ADs-david-casillas-guti%C3%A9rrez-a4ba6438a/"><img src="https://img.shields.io/badge/LinkedIn-Luis%20David%20Casillas-0A66C2?style=for-the-badge" alt="LinkedIn de Luis David Casillas"></a>
+
+También puedes revisar mis repositorios fijados para ver más de mi trabajo.
