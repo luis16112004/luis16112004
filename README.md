@@ -8,11 +8,7 @@ Soy ingeniero de software y construyo **apps móviles y web completas**: diseño
 -  **Web:** frontends con React y Angular; APIs y backends con Node.js, PHP y Java.
 -  **Nube y datos:** Firebase, MongoDB, Docker y arquitectura de microservicios.
 -  **Me interesa:** aplicar inteligencia artificial a procesos del día a día.
-<<<<<<< Updated upstream
 
-=======
--  **Ahora mismo:** desarrollo **GeoPulso**, una app para equipos de encuestas en campo, y sistemas a la medida para negocios.
->>>>>>> Stashed changes
 
 ---
 
