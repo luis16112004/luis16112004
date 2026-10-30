@@ -1,6 +1,6 @@
 <img src="assets/banner.svg" width="100%" alt="Luis David Casillas · Ingeniero de software · Apps Android y web">
 
-### Hola, soy Luis 
+### Hola, soy Luis
 
 Soy ingeniero de software y construyo **apps móviles y web completas**: diseño la interfaz, programo la lógica, armo la base de datos y la dejo funcionando en la nube. Me gusta resolver problemas de negocios reales con software que la gente de verdad usa, incluida la que no es experta en tecnología.
 
@@ -24,7 +24,7 @@ Soy ingeniero de software y construyo **apps móviles y web completas**: diseño
       <a href="https://github.com/luis16112004/GeoPulso-showcase"><b>Ver el proyecto →</b></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/luis16112004/DentalFlow"><img src="assets/proyectos/salonflow.jpg" width="100%" alt="Ilustración de SalonFlow: reservas y recordatorios"></a>
+      <a href="https://github.com/luis16112004/DentalFlow"><img src="assets/proyectos/salonflow.jpg" width="100%" alt="Agenda semanal y página de reservas de SalonFlow"></a>
       <h3>SalonFlow</h3>
       <p>Reservas en línea para salones de belleza: página pública para agendar, agenda por estilista, ficha de cada clienta y recordatorios por correo y WhatsApp. Incluye un bot de WhatsApp con IA.</p>
       <p><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma"></p>
@@ -33,11 +33,11 @@ Soy ingeniero de software y construyo **apps móviles y web completas**: diseño
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/proyectos/lc-flujo.jpg" width="100%" alt="Ilustración de LC Flujo con datos de ejemplo">
+      <img src="assets/proyectos/lc-flujo.jpg" width="100%" alt="Resumen y obras de LC Flujo con datos de prueba">
       <h3>LC Flujo</h3>
       <p>Control de efectivo para una constructora: sobres por obra, caja chica, comprobantes en PDF, materiales y reportes en Excel. Funciona en línea y también sin internet.</p>
       <p><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask"> <img src="https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white" alt="Firebase"> <img src="https://img.shields.io/badge/Excel-217346" alt="Excel"></p>
-      <sub>Desarrollado para un cliente; el código y los datos son privados.</sub>
+      <sub>Desarrollado para un cliente; el código es privado y las capturas usan datos de prueba.</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/luis16112004/PuntoVentaLDC"><img src="assets/proyectos/punto-de-venta.jpg" width="100%" alt="Página de PuntoVentaLDC"></a>
