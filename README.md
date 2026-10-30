@@ -138,6 +138,6 @@ Sitios que he diseñado y desarrollado para negocios locales: restaurantes, cons
 
 ¿Tienes un proyecto o una vacante? Hablemos por LinkedIn:
 
-<a href="https://www.linkedin.com/in/lu%C3%ADs-david-casillas-guti%C3%A9rrez-a4ba6438a/"><img src="https://img.shields.io/badge/LinkedIn-Luis%20David%20Casillas-0A66C2?style=for-the-badge" alt="LinkedIn de Luis David Casillas"></a>
+<a href="https://www.linkedin.com/in/luis-david-casillas-guti%C3%A9rrez-a4ba6438a/"><img src="https://img.shields.io/badge/LinkedIn-Luis%20David%20Casillas-0A66C2?style=for-the-badge" alt="LinkedIn de Luis David Casillas"></a>
 
 También puedes revisar mis repositorios fijados para ver más de mi trabajo.
