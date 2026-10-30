@@ -8,7 +8,7 @@ Ingeniero de software. Construyo **apps móviles y web** de principio a fin: des
 
 <table>
   <tr>
-    <td width="58%">
+    <td width="62%" valign="top">
       <h3>
         <img src="https://raw.githubusercontent.com/luis16112004/GeoPulso-showcase/main/docs/logo.svg" width="28" alt="" align="center">
         GeoPulso
@@ -21,9 +21,9 @@ Ingeniero de software. Construyo **apps móviles y web** de principio a fin: des
       </p>
       <a href="https://github.com/luis16112004/GeoPulso-showcase"><b>Ver el proyecto →</b></a>
     </td>
-    <td width="42%">
+    <td width="38%" valign="top" align="center">
       <a href="https://github.com/luis16112004/GeoPulso-showcase">
-        <img src="https://raw.githubusercontent.com/luis16112004/GeoPulso-showcase/main/docs/capturas/dashboard-admin.png" alt="Panel de administración de GeoPulso">
+        <img src="https://raw.githubusercontent.com/luis16112004/GeoPulso-showcase/main/docs/capturas/dashboard-admin.png" width="240" alt="Panel de administración de GeoPulso">
       </a>
     </td>
   </tr>
