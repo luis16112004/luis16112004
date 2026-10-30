@@ -1,14 +1,14 @@
 <img src="assets/banner.svg" width="100%" alt="Luis David Casillas · Ingeniero de software · Apps Android y web">
 
-### Hola, soy Luis 👋
+### Hola, soy Luis 
 
 Soy ingeniero de software y construyo **apps móviles y web completas**: diseño la interfaz, programo la lógica, armo la base de datos y la dejo funcionando en la nube. Me gusta resolver problemas de negocios reales con software que la gente de verdad usa, incluida la que no es experta en tecnología.
 
-- 📱 **Móvil:** apps Android nativas con Kotlin y Jetpack Compose, y multiplataforma con Flutter.
-- 🌐 **Web:** frontends con React y Angular; APIs y backends con Node.js, PHP y Java.
-- ☁️ **Nube y datos:** Firebase, MongoDB, Docker y arquitectura de microservicios.
-- 🤖 **Me interesa:** aplicar inteligencia artificial a procesos del día a día.
-- 🔭 **Ahora mismo:** desarrollo **GeoPulso**, una app para equipos de encuestas en campo.
+-  **Móvil:** apps Android nativas con Kotlin y Jetpack Compose, y multiplataforma con Flutter.
+-  **Web:** frontends con React y Angular; APIs y backends con Node.js, PHP y Java.
+-  **Nube y datos:** Firebase, MongoDB, Docker y arquitectura de microservicios.
+-  **Me interesa:** aplicar inteligencia artificial a procesos del día a día.
+-  **Ahora mismo:** desarrollo **GeoPulso**, una app para equipos de encuestas en campo.
 
 ---
 
